@@ -97,3 +97,4 @@ Projeto desenvolvido por Rian Lucas como demonstração de um site institucional
 
 ## 🔗 Link do Projeto
 
+https://riannlucass.github.io/Previa-Barbearia/
